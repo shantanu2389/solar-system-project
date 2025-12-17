@@ -14,7 +14,8 @@ Created as a school project for learning and fun.
 - JavaScript
 
 ## 📌 Live Demo
-(Enable GitHub Pages to see live demo)
+🔗 Live Demo: https://shantanu2389.github.io/solar-system-project/
+
 
 Made with ❤️ by a school student.
 
